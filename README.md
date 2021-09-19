@@ -1,12 +1,17 @@
 # Endless Trails
 National Park Search Tool
 
+## Elevator Pitch
+* Who Are We?
+  * We are a diverse group of programmers who really enjoy traveling, seeing sights, and spending time in the beautiful outdoors.
+
+
 User stories,
 * AS A lover of travel
 * WE WANT a tool to let anyone search for national parks
 * SO THAT ANYONE can find their way to adventure near the next travel destination
 
-Live URL link https://tonycodesnow.github.io/NationalParkSearch/
+Live URL link https://gkowligi1392.github.io/NationalParkSearch/
 
 <p align="center"><img src="./assets/images/Live.png" width="70%"></p>
 
