@@ -4,7 +4,10 @@ National Park Search Tool
 ## Elevator Pitch
 * Who Are We?
   * We are a diverse group of programmers who really enjoy traveling, seeing sights, and spending time in the beautiful outdoors.
-
+* What Did We Do?
+ * Our goal was to make a resource that fellow travelers can use to look for national parks near their home city or a city they will be visiting soon.
+* How Did We Do It and What Is New?
+ * Using the National Parks Service and Google Predictions APIs, a drop-down list of potential city choices will appear as the user types the first few letters of a city name.  When they choose a city and a distance, all national parks near that city will be listed, along with a picture, some information about the park, and a few thumbnails of images related to that park.
 
 User stories,
 * AS A lover of travel
