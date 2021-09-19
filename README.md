@@ -9,12 +9,18 @@ National Park Search Tool
 * How Did We Do It and What Is New?
   * Using the National Parks Service and Google Predictions APIs, a drop-down list of potential city choices will appear as the user types the first few letters of a city name.  When they choose a city and a distance, all national parks near that city will be listed, along with a picture, some information about the park, and a few thumbnails of images related to that park.
 
-User stories,
-* AS A lover of travel
-* WE WANT a tool to let anyone search for national parks
-* SO THAT ANYONE can find their way to adventure near the next travel destination
+## Concept
+* Description
+  * Shows national parks on search, by city and distance, with one click
+* Motivation
+  * Our love for travel and outdoors, the need for a tool to find the next outdoor adventure to visit our gorgeous national parks
+* User Story
+  * AS A lover of travel
+  * WE WANT a tool to let anyone search for national parks
+  * SO THAT anyone can find their way to adventure near the next travel destination
 
-Live URL link https://gkowligi1392.github.io/NationalParkSearch/
+## Website
+* https://gkowligi1392.github.io/NationalParkSearch/
 
 <p align="center"><img src="./assets/images/Live.png" width="70%"></p>
 
